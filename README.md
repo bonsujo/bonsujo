@@ -7,7 +7,7 @@
 
 <ul>
 <li>One of my favourite hobbies is photography<img src="https://www.freeiconspng.com/uploads/camera-icon-search-engine-iconfinder-11.png" width="30"></li>
-<li>I also am fascinated by the diversity of the world and love to learn about different cultures, traditions, and languages<img src="https://www.freeiconspng.com/uploads/world-icon-png-19.png" width="30"></li>
+<li>I also am fascinated by the individual cultures of the world and love to learn about different traditions and languages<img src="https://www.freeiconspng.com/uploads/world-icon-png-19.png" width="30"></li>
 </ul>
 
 <h3>Skills: </h3>
