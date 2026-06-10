@@ -1,6 +1,6 @@
 <h2> Hi there, I am Josephine Bonsu 👋 </h2>
 
-<p><em>I am a recent McMaster graduate</p></em>
+<p>I am a recent McMaster graduate</p>
 
 [![Linkedin: Josephine Bonsu](https://img.shields.io/badge/-josephinebonsu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephine-b-547186193)](https://www.linkedin.com/in/josephine-b-547186193)
 
