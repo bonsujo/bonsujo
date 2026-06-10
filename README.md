@@ -1,6 +1,6 @@
 <h2> Hi there, I am Josephine Bonsu 👋 </h2>
 
-<p><em>I am a recent graduate of <a href="https://www.sheridancollege.ca/programs/computer-systems-technology-software-development-and-network-engineering#tab=overview">Sheridan College's</a> SDNE Course <img src="https://www.freeiconspng.com/uploads/high-resolution-graduation-cap-png-icon-17.png" width="30"> </p></em>
+<p><em>I am a recent McMaster graduate</p></em>
 
 [![Linkedin: Josephine Bonsu](https://img.shields.io/badge/-josephinebonsu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephine-b-547186193)](https://www.linkedin.com/in/josephine-b-547186193)
 
